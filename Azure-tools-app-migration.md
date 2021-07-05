@@ -27,5 +27,3 @@ Deploy SSRS on Azure Virtual MAchine and used Azure Hybrid Benefit licensing. Mo
 
 This option leverage PaaS
 If your SSRS reports are pulling the data from databases hosted on Azure SQL Managed Instance, consider hosting report server databases on the same instance, thus minimizing the database engine footprint.
-
-

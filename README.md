@@ -85,6 +85,15 @@ Premium 4 vCore is free for the first 6 months.
 
 - Azure Advisor is the best place.
 
+## Azure App Services
 
+- Multiple languages and frameworks
+- High availability and scalability
+- Windows and Linux
+- Easy integration with version control systems
+- Security and compliance
+- API and mobile features.
 
+## Migration strategy
 
+Follow [this link](Azure-tools-app-migration.md)
